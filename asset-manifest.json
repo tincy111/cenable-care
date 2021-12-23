@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/cenable-care/static/css/main.90c825ba.chunk.css",
+    "main.js": "/cenable-care/static/js/main.48362e2f.chunk.js",
+    "main.js.map": "/cenable-care/static/js/main.48362e2f.chunk.js.map",
+    "runtime-main.js": "/cenable-care/static/js/runtime-main.73c4547d.js",
+    "runtime-main.js.map": "/cenable-care/static/js/runtime-main.73c4547d.js.map",
+    "static/js/2.0e4cb740.chunk.js": "/cenable-care/static/js/2.0e4cb740.chunk.js",
+    "static/js/2.0e4cb740.chunk.js.map": "/cenable-care/static/js/2.0e4cb740.chunk.js.map",
+    "index.html": "/cenable-care/index.html",
+    "static/css/main.90c825ba.chunk.css.map": "/cenable-care/static/css/main.90c825ba.chunk.css.map",
+    "static/js/2.0e4cb740.chunk.js.LICENSE.txt": "/cenable-care/static/js/2.0e4cb740.chunk.js.LICENSE.txt",
+    "static/media/dashboard-bg.43213ad5.png": "/cenable-care/static/media/dashboard-bg.43213ad5.png",
+    "static/media/Login.module.css": "/cenable-care/static/media/login-purple-bg.bc00f7dd.png",
+    "static/media/Signup.module.css": "/cenable-care/static/media/sign-up-purple-bg.d8e5d33f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.73c4547d.js",
+    "static/js/2.0e4cb740.chunk.js",
+    "static/css/main.90c825ba.chunk.css",
+    "static/js/main.48362e2f.chunk.js"
+  ]
+}
